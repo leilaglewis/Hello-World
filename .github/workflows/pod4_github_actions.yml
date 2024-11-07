@@ -16,4 +16,4 @@ jobs:
         - uses: actions/checkout@v4
 
         - name: output script
-        - run: echo Pod4 In the HOWZ!!!
+          run: echo Pod4 In the HOWZ!!!
